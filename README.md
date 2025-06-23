@@ -3,5 +3,8 @@
 This repository will host source code for RehabGPT.
 
 ## 📹 Demo Video
+![Demo1](demo1.gif)
+![Demo2](demo2.gif)
+![Demo3](demo3.gif)
 
-[![Watch the demo video](assets/video_thumbnail.png)](/assets/demo2.mp4)
+[![Entire demo video can be downloaded here.](assets/video_thumbnail.png)](/assets/demo2.mp4)
